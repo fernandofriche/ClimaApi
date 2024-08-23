@@ -1,0 +1,31 @@
+.status {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.status p {
+    font-size: 16px;
+}
+
+.status input{
+    padding: 10;
+    border-radius: 10px;
+    border: none;
+}
+
+.busca {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.error {
+    color: red;
+    margin: 5rem auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}

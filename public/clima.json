@@ -1,0 +1,120 @@
+{ 
+  "cidades":{
+    "Brasília": {
+      "temperature": "25°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "São Paulo": {
+      "temperature": "22°C",
+      "conditions": "Nublado",
+      "icon": "http://openweathermap.org/img/wn/02d.png"
+    },
+    "Rio de Janeiro": {
+      "temperature": "28°C",
+      "conditions": "Parcialmente nublado",
+      "icon": "http://openweathermap.org/img/wn/03d.png"
+    },
+    "Salvador": {
+      "temperature": "30°C",
+      "conditions": "Chuvoso",
+      "icon": "http://openweathermap.org/img/wn/10d.png"
+    },
+    "Fortaleza": {
+      "temperature": "31°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "Belo Horizonte": {
+      "temperature": "24°C",
+      "conditions": "Nublado",
+      "icon": "http://openweathermap.org/img/wn/02d.png"
+    },
+    "Manaus": {
+      "temperature": "27°C",
+      "conditions": "Chuvoso",
+      "icon": "http://openweathermap.org/img/wn/10d.png"
+    },
+    "Belém": {
+      "temperature": "29°C",
+      "conditions": "Chuvoso",
+      "icon": "http://openweathermap.org/img/wn/10d.png"
+    },
+    "São Luís": {
+      "temperature": "30°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "Teresina": {
+      "temperature": "32°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "João Pessoa": {
+      "temperature": "29°C",
+      "conditions": "Parcialmente nublado",
+      "icon": "http://openweathermap.org/img/wn/03d.png"
+    },
+    "Recife": {
+      "temperature": "28°C",
+      "conditions": "Nublado",
+      "icon": "http://openweathermap.org/img/wn/02d.png"
+    },
+    "Natal": {
+      "temperature": "27°C",
+      "conditions": "Chuvoso",
+      "icon": "http://openweathermap.org/img/wn/10d.png"
+    },
+    "Maceió": {
+      "temperature": "28°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "Aracaju": {
+      "temperature": "29°C",
+      "conditions": "Nublado",
+      "icon": "http://openweathermap.org/img/wn/02d.png"
+    },
+    "Campo Grande": {
+      "temperature": "26°C",
+      "conditions": "Parcialmente nublado",
+      "icon": "http://openweathermap.org/img/wn/03d.png"
+    },
+    "Cuiabá": {
+      "temperature": "34°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "Goiânia": {
+      "temperature": "27°C",
+      "conditions": "Nublado",
+      "icon": "http://openweathermap.org/img/wn/02d.png"
+    },
+    "Palmas": {
+      "temperature": "30°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    },
+    "Porto Velho": {
+      "temperature": "29°C",
+      "conditions": "Chuvoso",
+      "icon": "http://openweathermap.org/img/wn/10d.png"
+    },
+    "Rio Branco": {
+      "temperature": "28°C",
+      "conditions": "Chuvoso",
+      "icon": "http://openweathermap.org/img/wn/10d.png"
+    },
+    "Boa Vista": {
+      "temperature": "30°C",
+      "conditions": "Parcialmente nublado",
+      "icon": "http://openweathermap.org/img/wn/03d.png"
+    },
+    "Macapá": {
+      "temperature": "29°C",
+      "conditions": "Ensolarado",
+      "icon": "http://openweathermap.org/img/wn/01d.png"
+    }
+  }
+  }
+    
